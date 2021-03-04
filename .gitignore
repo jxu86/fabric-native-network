@@ -16,3 +16,4 @@
 node_modules/
 # Ignore Gradle build output directory
 build
+data/
